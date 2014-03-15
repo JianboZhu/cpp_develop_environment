@@ -58,6 +58,9 @@ The cpp develop environment
 12. rapidjson
     * 无需编译和安装，直接include头文件即可
 
+13. hiredis
+    make && sudo make install
+
 13. ubuntu下安装nginx
     * 安装依赖
     1) pcre正则表达式库
